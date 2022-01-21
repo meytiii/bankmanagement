@@ -25,7 +25,7 @@ void day_vam_inc(bank &b);
 string serial_generator(bank &bank);
 void loan_payments(bank &bank);
 void end_of_month(bank &bank);
-//test edit
+
 class Account
 {
 public:
